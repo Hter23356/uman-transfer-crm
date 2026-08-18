@@ -1,0 +1,9 @@
+name = "uman-transfer-crm"
+compatibility_date = "2026-06-01"
+pages_build_output_dir = "public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "uman-transfer-crm"
+database_id = "7efb7e8c-0e31-45f8-9981-ba52ff0a7acc"
+preview_database_id = "DB"

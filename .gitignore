@@ -1,0 +1,7 @@
+.dev.vars
+node_modules/
+.DS_Store
+.wrangler/
+local-database/
+backups/*.sql
+backups/*.csv
